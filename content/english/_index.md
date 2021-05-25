@@ -54,7 +54,7 @@ service:
   enable : true
   service_item:
     # service item loop
-    # - title : "The main challenge"
+    # - title : "The main challenge "
     #   images:
     #   - "images/service-1.png"
     #   - "images/service-2.png"
