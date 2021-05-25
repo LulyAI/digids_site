@@ -1,0 +1,16 @@
+######################## default configuration ####################
+baseURL = "http://digids.net/"
+title = "Digids: Digital Identity Services"
+theme = "bigspring"
+# post pagination
+paginate = "3"
+# post excerpt
+summaryLength = "15"
+disableLanguages = ["de"]
+# disqus short name
+disqusShortname = "" # get your shortname form here : https://disqus.com
+# google analytics
+googleAnalytics = "" # example : UA-123-45
+# unsafe html
+[markup.goldmark.renderer]
+unsafe = true
